@@ -1,0 +1,7 @@
+{
+  "name": "queue AI studio",
+  "description": "نظام متكامل لإدارة الطوابير والعيادات مع واجهة عرض وشاشات تحكم.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
